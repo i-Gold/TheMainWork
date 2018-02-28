@@ -1,1 +1,2 @@
-# operations with cars
+# Simple program
+for operations with cars
